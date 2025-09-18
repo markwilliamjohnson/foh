@@ -1,0 +1,318 @@
+Week1 - Understanding Causation and Defining a Research Question, automated transcript
+2-Sep-2024
+---
+
+Hi everyone and welcome to Fundamentals of Epidemiology, Topic 1. I'm Tracy
+Farahurt,
+I'm an epidemiologist and my research looks at understanding health inequalities
+and evaluating
+interventions that might reduce some of these inequalities. And I work mainly
+with routine
+data, so data that's already collected, rather than data that we would have to
+subsequently
+collect, but we will look at these different types of studies as we go on. So a
+lot of the
+examples that I'm going to give you in these weekly lectures are going to be
+from work that
+I've done, but mainly around one health condition, I'll come back to that. The
+aim of these mini
+lectures is to introduce some of the concepts covered in each of the weeks. I'm
+going to
+provide you with examples of some of the types of studies covered in the course
+from the perspective
+of just one health condition. But I'd like to reiterate, this is not a
+replacement for your
+course content. It's very important that as well as looking at this video, you
+also look at the
+course content because it provides much more detail, links to further reading,
+as well as
+examples of self-study and the discussion groups which are so important, as they
+all embed your
+learning even further. So I'm going to take the example of cervical cancer as
+our case study in
+these weekly lectures. Now to give you a little bit of background, cervical
+cancer is found
+anywhere in the cervix, which is the opening between the vagina and the womb of
+the uterus.
+Now, almost all of these cases of cervical cancer are linked to an infection
+from high-risk
+human papilloma virus or HPV, and it's an extremely common virus transmitted
+through sexual
+contact. Most HPV infections result spontaneously and can cause no symptoms, but
+persistent
+infection can cause cervical cancer. Now that information is known now, but it
+was developed
+from epidemiological studies, and I'll take you through some of these studies
+that shows how we
+developed from theory through to what is now known, and the interventions
+developed to address
+this. But we do also know from the epidemiology that it's the fourth most common
+cancer in women
+worldwide, and in 2018, estimated that over half a million women were diagnosed
+with cervical cancer
+worldwide and about 300,000 died from the disease. What we also know is that
+there is variation in
+the incidence of the death rate of cervical cancer across the globe, and this
+really does reflect
+the prevention approaches that we've been able to implement across different
+regions because of
+things like primary prevention approaches, which include HPV vaccinations and
+secondary prevention
+approaches, which include screening and when diagnosed, is the most successfully
+treatable
+form of cancer as long as it's detected early and managed effectively. The
+problem, as reflected in
+globally, is how these prevention measures are implemented in different
+countries. So the WHO
+now have a worldwide strategy of making cervical cancer eliminated as a public
+health problem
+within a generation, and so that's based on the epidemiology that we know. And
+so what I'm going
+to do each week is take you through these different studies that have developed
+our knowledge and
+understanding. But what I'm going to firstly do is talk not about an actual
+study design,
+but show you how often we develop hypotheses on different health conditions
+through anecdotes and
+case series. And you may have seen case series in journal articles where a
+doctor might present
+I've noticed these five cases of a particular condition. Now it can initiate
+further investigation,
+but they can often be controversial. But one really positive example is that
+anecdotes were
+used to first recognise HIV and AIDS. So in the early 1980s in the US, it was
+recognised that gay
+men in New York and San Francisco were presenting with very rare infections,
+very rare cancers.
+And clinicians noticed this and started to write papers and discuss this at
+conferences,
+that there was this particular group of people and they were presenting with
+very rare disease
+and they didn't know why. And that started the ball rolling on trying to
+investigate
+what was the cause of these range of conditions under the umbrella of HIV and
+AIDS and how
+they started to explore the causes of the condition. However, there was also bad
+examples
+of anecdotes, particularly the controversy around autism and MMR vaccine. And so
+the anecdotes were
+used that the child had MMR vaccine and then subsequently was diagnosed shortly
+after with
+autism. And this is a good example of where we don't apply causal criteria to
+think that through,
+that while this happened before MMR vaccines happened before diagnosis, that
+doesn't mean
+one causes the other. And that's very important to think about and why we think
+about
+having causal criteria in what we do and what we're looking at. And this topic
+this week is
+understanding causality and understanding that different reasons can impact and
+cause different conditions. One of the poor consequences of the controversy
+around autism
+and MMR is that actually vaccination rates were impacted upon. And so there are
+pros and cons
+to these approaches. So these pros and cons of anecdotes can start the
+conversation around what
+could be a particular cause of a particular disease. And so they're quick,
+they're easy to
+perform in a clinic and you can just look at people's records and provides new
+previously
+unobserved information, both in terms of conditions and risk factors. However,
+we do not class these
+as scientific and they can't test hypotheses, which we will look at in
+developing our research
+question. It's really important to think about hypothesis that you have and how
+you would look
+at that in a research question and how you develop then your research study to
+think about that.
+But we'll come back to that later. Another con of anecdotes is known as observer
+bias.
+And we'll come back to different types of bias later in the course,
+but observer bias is where you hope to see something and you see it. And that is
+definitely the
+case of in the MMR autism example. So it's really important that you may
+initiate your
+research question for your assignment from anecdotes, but it's also important to
+step
+back and use the causality criteria to think about what information you do have
+and don't have.
+So why am I talking about anecdotes? Well, that's because in terms of the
+cervical cancer
+area, this was how we started to understand or start to investigate cervical
+cancer.
+And it comes from this Italian paper that looked at over 15,000 death
+certificates
+and found there was a difference between nuns and other people in terms of their
+death rates
+from uterine cancer. What he interpreted was actually an anecdote in that he
+said
+nuns don't get cervical cancer. So we're going to take that on further.
+What does that actually represent? Is it that it's about marital status?
+Or is it because nuns don't marry? Or is it something about sexual activity?
+So the anecdote itself might not give you the answer, but it starts the process
+of trying to think
+about what is the reason why nuns might not get cervical cancer. It's probably
+not about marital
+status. Is it about sexual activity? And in what context? And so we'll start to
+tease out
+and look at the different causes of cervical cancer as we look through the
+different weeks.
+So let's look at this week's topics in learning objectives. It's around risk and
+causation.
+And these are two of the most important concepts in epidemiology.
+If epidemiology is the study of how often a disease occurs in different groups
+of people
+and we identify reasons for these differences, then we need to understand the
+concepts of risk
+and causality. We will return to these concepts again and again throughout the
+course
+and through the different types of studies. And it's the basis for how we then
+develop our
+research questions. And we use it to understand how often a disease occurs and
+reasons why the
+chances of developing diseases might happen. Therefore, it's really important
+for you to
+understand these concepts from an epidemiological framework. Therefore, in this
+week's topic,
+we will first discuss risks, how they're associated with outcomes, and we'll
+discuss
+causation in relation to epidemiological studies. You'll then apply causation
+criteria to a
+particular study. And that's what you're going to discuss in your discussion
+group
+together with all the tutors. And in the coming weeks, I hope that you'll use
+these tools
+to reflect on the advantages and disadvantages of different study designs and
+examples of
+research questions. As you can see in the course content and further reading
+I've recommended,
+there are different schematics we can use to understand the various causes of
+diseases,
+especially in chapter five of Raj Bhopal's book Concepts of Epidemiology.
+And the idea of these schematics is to reflect on the various risk factors that
+might contribute
+to a particular health condition and so develop strategies to reduce our risk.
+And we can then
+start to use these kind of schematics to understand how we would develop our
+studies.
+And so even if you think of any health condition, we can quickly understand that
+it's very rare to think of any that only has one risk factor or cause. Even if
+you think of
+something like COVID and infectious disease, it might be initially think it's
+only caused by one
+thing, the coronavirus. However, we then can think of different factors that
+might contribute to our
+risk of contracting the infection, such as face masks, ventilation, social
+distancing and
+vaccinations. And then we can then start to think about how uptake and exposure
+to these varies.
+And these can be related to social economic factors. So this schematic I've got
+here is
+I use it with colleagues who come to me with research questions to develop
+research studies
+because it helps us understand the potential factors that might be associated
+with a health condition or disease and help us think about potential biases that
+can be introduced
+in the way that we select our population, the way that we identify and measure
+our risk factors
+and health outcomes. And as you can see in the schematic outlined and in the
+course content,
+we have criteria to assess causality and they're provided to help you reflect
+and appraise the
+evidence we have. It's important to remember that though that these criteria are
+not absolutes
+and we provide them as a framework as we do with this schematic. Our thinking
+about
+causality and thinking about this framework are very much linked because we have
+to realise
+that none of these schematics are perfect, but that they're a starting point to
+understand
+how we would address these overall questions. And we do that because to bring us
+back to
+something in fundamentals of epidemiology is that there are many types of bias
+and error
+inherent in any epidemiological study and whatever study you use, there will be
+this bias or error in there. Even if you think of something like an RCT, which
+are seen as the gold
+standard, there are always errors, there are always variation. And even if you
+take the ideal,
+which you can see in this slide would be the top left where there's low
+variability in error
+and unbiased data, we will be able to better measure a mean of blood pressure in
+a population,
+for example. And we want to reduce the variability and error. We don't want to
+see any bias because
+if we introduce a bias, what we estimate is not the truth. And you can see in a
+schematic of that,
+which is where the red dot, the truth, the estimate is away from the truth,
+which is in the blue.
+And what we also want to do is reduce variation in what we do. And that does
+take up most of what
+an epidemiologist's time is that we need to understand and identify the impact
+and might
+mitigate for these different types of bias and error. And that's what you're
+going to do in this
+course. You're going to concentrate most on is getting you to think of the types
+of bias
+and error that you might see that occurs in research today. And how can we
+address that
+in the studies that we design? So when I'm developing a new study, I'm trying to
+reduce
+the impact of bias and error and developing an analysis that reduces this. So
+let's go back to
+the cervical cancer case and look at using the schematic that I outlined earlier
+to identify
+what our population, our risk factor, our outcome and our control or comparison
+group would be
+interested in if what we know so far is the anecdote that nuns are less likely
+to get cervical cancer. Well, if we base our deductions just on that statement,
+is the risk factor being a nun? And then would our controls be those that aren't
+nuns? Well,
+that doesn't make sense that it's the fact that somebody is known for that
+occupation,
+the risk factor of getting cervical cancer. Or is it something else that makes
+the nuns
+different from other women? And that's what some of the next studies that we'll
+go on to look at
+in these webinars look at in terms of they start to look at people's sexual
+activity.
+So in the course content we've talked about, it's the initial risk factor may
+not be the
+risk factor that you're interested in. So being a nun, you are celibate. Is that
+the protector
+against not getting cervical cancer? And so then the risk factor is sexual
+activity.
+We then move on to what is it about the sexual activity that increases your risk
+to cervical
+cancer? And we then start to think about who would be our population of
+interest? Is it all women?
+Well, is it women of a particular age group who are prone to cervical cancer? We
+need to understand
+is the rates different at different ages? If it is something about sexual
+activity,
+is it about women who are sexually active? So is it from a certain age onwards?
+Do we reduce our
+risk of cervical cancer later in life? Because the risk is reduced, the events
+have already
+happened now. So we'll need to know more information. It might not necessarily
+be all women.
+In terms of outcomes, we can think of cervical cancer. But how do we define
+cervical cancer?
+We know there are different stages of cancer. And we also have mentioned earlier
+when we talk about
+in screening, we look at precancerous cells. Do we define that as cancer? So
+it's a good starting
+point, the schematic, but it often starts conversations around how you define
+these
+different terms in the context of your research question. So in the task, you
+are asked to look at
+that particular paper, maybe look at it in this schematic. It might help you
+think through
+how they have identified their risk factors, their controls, their outcomes and
+their population.
+Is it really appropriate? But this is just a starting point. This is to start
+you thinking
+about cervical cancer, but also to think about research questions. These
+schematics are great,
+but they are just a starting point. So I hope you've enjoyed that and I hope you
+enjoyed Topic 1.
